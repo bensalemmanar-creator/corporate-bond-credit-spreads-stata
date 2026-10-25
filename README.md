@@ -61,9 +61,8 @@ Robustness:
 - **Country-clustered SE (34 clusters):** only **credit rating** stays significant. Profitability (p = 0.273), enforcement (p = 0.387) and maturity (p = 0.211) lose significance.
 - Callable bonds and country fixed effects were also estimated; see `Proj.do`.
 
-![Main regression](images/main-regression.png)
-![Hypothesis testing](images/hypothesis-results.png)
-![Country-clustered standard errors](images/country-clustered-se.png)
+Presentation (including graphs and results) [Project (1).pdf](https://github.com/user-attachments/files/33936307/Project.1.pdf)
+
 
 ## Conclusion
 Credit rating is the strongest and most robust determinant of credit spreads. Profitability, debt enforcement and maturity matter in the baseline and with robust standard errors, but not once errors are clustered by country, which suggests country-level factors drive much of the variation in borrowing costs. Leverage has no significant effect in the baseline.
@@ -79,4 +78,4 @@ Credit rating is the strongest and most robust determinant of credit spreads. Pr
 
 ## Files
 - `Proj.do`: full analysis code
-- `images/`: result slides
+- `Project (1).pdf/`: Project slides
