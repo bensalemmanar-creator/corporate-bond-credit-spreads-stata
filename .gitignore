@@ -1,0 +1,6 @@
+*.smcl
+*.log
+*.dta
+# dataset is not included (check sharing permission)
+1-CS-data-CSV.csv
+.DS_Store
